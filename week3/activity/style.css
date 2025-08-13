@@ -1,0 +1,95 @@
+body {
+    background-color:  #16365d;
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+    font-style: arial;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(247, 33, 33);
+    font-style: arial;
+}
+h3 {
+    background-color: black;
+    width: 300px;
+    border-top: 2px solid red;
+    font-style: arial;
+}
+
+h4 {
+    font-weight: bold
+    }
+
+
+h5 {
+    background-color: black;
+    color: white;
+    width: 95%;
+    border-left: solid red;
+    border-right: solid yellow;
+}
+
+h6 { 
+    color: yellow;
+    text-decoration: underline;
+
+
+}
+
+p {
+    color: white;
+
+}
+   
+    
+
+p {
+    color: white;
+    font-style: arial;
+}
+
+li {
+    color: white;
+    font-style: arial;
+}
+
+.myspan {
+    color:red;
+    text-decoration: underline;
+    font-style: arial;
+}
+.myspan2 {
+    color: yellow;
+    text-decoration: underline;
+    font-style: arial;
+}
+
+.myspan3 {
+    color: blue;
+    font-style: arial;
+    
+}
+.myspan4 {
+    color: rgb(61, 245, 61);
+    font-style: arial;
+}
+.myspan5 {
+    color: blue
+    
+}
+.myspan6 {
+    color: red;
+    font-style: arial;
+}
+.myspan7 {
+    background-color: rgb(61, 245, 61);
+    font-weight: bold;
+    color: black
+    
+
+}
