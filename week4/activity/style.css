@@ -1,0 +1,73 @@
+.box {
+    width: 50px;
+    height:100px;
+}
+.A {
+    height: 300px;
+    width: 80px;
+
+    background-color:rgb(242, 243, 243);
+    border-bottom: thick solid black;
+    border-right: thick solid black;
+}
+.B {
+    height: 303px;
+    width:80px;
+    background-color:rgb(246, 248, 247);
+    border-top:thick solid black;
+    border-right: thick solid black;
+    border-bottom: thick solid black;
+    
+    ;
+
+    
+}
+.C{
+    width: 600px;
+    height: 612px;
+    background-color:rgb(253, 0, 0);
+    border-bottom: thick solid black;
+    border-left: thick solid black;
+    
+    display: flex;
+    
+}
+.D {
+    width:80px;
+    height:200px;
+    
+    background-color:rgb(14, 69, 172);
+    border-top: thick solid black;
+    border-right: thick solid black;
+}
+.E {
+    width:550px;
+    height:200px;
+    background-color:white;
+    border-top: thick solid black;
+    border-right: thick solid black;
+    border-left: solid black;
+}
+.F {
+    height: 100px;
+    width: 35px;
+    border-bottom: thick solid black;
+    border-left: thick solid black;
+}
+.G {
+    width: 35px;
+    height: 97px;
+   border-left: thick solid black;
+    border-top: solid black;
+    background-color: rgb(233, 233, 142);
+
+}
+.container {
+    display: flex;
+}
+.container1 {
+    display: flex;
+}
+.innercontainer{
+    flex-direction: column;
+}
