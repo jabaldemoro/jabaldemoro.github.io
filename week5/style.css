@@ -1,0 +1,59 @@
+.mdi {
+    color: blue;
+    font-size:30px;
+    margin: 0;
+}
+
+.card {
+    width:25%;
+    border:1px solid gray;
+    padding:20px;
+    border-radius:10px;
+    box-shadow: 10px 10px;
+    margin-left: 50px;
+    
+}
+
+.h2, p{
+    margin:0;
+    padding:10px;
+    margin-bottom: 10px;
+    
+   
+}
+
+.card-header {
+    display:flex;
+    border-bottom: 1px solid black;
+    
+}
+
+.btn {
+    border: none;
+    background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 22%, rgba(2, 0, 36, 1) 6%, rgba(9, 9, 121, 1) 38%, rgba(0, 212, 255, 1) 79%);
+    color: White;
+    padding:10px;
+    border-radius: 100px;
+
+}
+
+
+.btn:hover {
+   background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    cursor: pointer;
+}
+
+.bigcard {
+
+    display: flex;
+
+}
+
+.card:hover {
+   box-shadow: 10px 10px  rgb(116, 79, 146);
+   background-color: rgb(195, 174, 228)
+}
+
+
